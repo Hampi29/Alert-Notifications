@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.icons {
+  margin: 20px;
+  color: white;
+  height: 30px;
+  width: 30px;
+}
+
+.info {
+  color: #0f81e0;
+  font-size: 25px;
+}
+
+.success {
+  color: #2dca73;
+  font-size: 25px;
+}
+
+.error {
+  color: #ff0b37;
+  font-size: 25px;
+}
+
+.warning {
+  color: #ffb800;
+  font-size: 25px;
+}
+.alert-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
